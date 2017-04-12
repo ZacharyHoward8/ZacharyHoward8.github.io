@@ -1,0 +1,21 @@
+
+.ZacharyHoward {
+	text-align: center;
+}
+.accomplishments {
+	text-align: left;
+	margin-top: 230px;
+	float:left;
+}
+.funfacts {
+	text-align: right;
+	margin-top: 220px;
+	float:right;
+
+}
+.aboutme {
+	text-align: bottom;
+	margin-top:500px;
+	margin-left: 650px;
+	margin-right: 300px;
+}
