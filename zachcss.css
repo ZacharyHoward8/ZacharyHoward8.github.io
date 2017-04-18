@@ -1,6 +1,11 @@
-
+{
 .ZacharyHoward {
 	text-align: center;
+	margin-top: 200px;
+	margin-right: 200px;
+	margin-left: 200px;
+
+
 }
 .accomplishments {
 	text-align: left;
@@ -15,7 +20,7 @@
 }
 .aboutme {
 	text-align: bottom;
-	margin-top:500px;
-	margin-left: 650px;
+	margin-top:550px;
+	margin-left: 600px;
 	margin-right: 300px;
 }
