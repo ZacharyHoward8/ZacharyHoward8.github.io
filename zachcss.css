@@ -1,26 +1,37 @@
-{
+ body {
+	background-image:  url("https://ZacharyHoward8.github.io/pinkwatercolordesktop.jpg");
+	font-family: sans-serif;
+}
 .ZacharyHoward {
 	text-align: center;
-	margin-top: 200px;
-	margin-right: 200px;
-	margin-left: 200px;
+	font-family: courier;
+	font-size: 40px;
 
-
+	
 }
 .accomplishments {
 	text-align: left;
 	margin-top: 230px;
 	float:left;
+	font-family: cursive;
 }
 .funfacts {
 	text-align: right;
 	margin-top: 220px;
 	float:right;
+	font-family: courier;
 
 }
 .aboutme {
 	text-align: bottom;
-	margin-top:550px;
-	margin-left: 600px;
+	margin-top:400px;
+	margin-left: 650px;
 	margin-right: 300px;
+	font-family: lucida;
+}
+.inthesnow{
+	height: 400px;
+	position: relative;
+	left: 270px;
+	top: 200px;
 }
